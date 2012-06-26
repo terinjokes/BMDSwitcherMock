@@ -12,7 +12,7 @@ A better question is, "What does work?".
 Creating an ABI compatable COM isn't that difficult, especially not when targeting only the public SDK.
 Unfortunately, the harder part is writing the mock in such a way that it behaves in a realistic maner.
 
-### Contact
+## Contact
 Terin Stock
 [@terinjokes](http://twitter.com/terinjokes)
 [terin@terinstock.com](mailto:terin@terinstock.com)
